@@ -130,14 +130,13 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/6d521707-d9d9-48ae-841f-a85920fc97a3)
-
+![image](https://github.com/user-attachments/assets/2b891ae6-6aeb-4f9d-b031-16c2e6d21f99)
 
 
 ### Original vs Noisy Vs Reconstructed Image
 ![image](https://github.com/user-attachments/assets/c4fe4219-4c5e-4070-b2e5-df250faa7cc7)
 
-![image](https://github.com/user-attachments/assets/2b891ae6-6aeb-4f9d-b031-16c2e6d21f99)
+![image](https://github.com/user-attachments/assets/6d521707-d9d9-48ae-841f-a85920fc97a3)
 
 ![image](https://github.com/user-attachments/assets/de54d587-d8cb-43ed-916f-ca39a8503c0f)
 
